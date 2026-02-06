@@ -9,7 +9,9 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389425.m3u8
 #EXTINF:-1,CineMania Bangla 5 FHD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389426.m3u8
 
-EXTINF:-1,***IND: MOVIES (4K ULTRA HD)***
+
+#EXTINF:-1,IN | STAR GOLD THRILLS
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221258.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109954.m3u8
 #EXTINF:-1,&pictures (4K)
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109955.m3u8
@@ -55,10 +57,6 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109980.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206315.m3u8
 #EXTINF:-1,IN: Jalsha Movies (4K)*
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206320.m3u8
-
-
-#EXTINF:-1,IN | STAR GOLD THRILLS
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221258.m3u8
 #EXTINF:-1,IN | Star Gold HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66177.m3u8
 #EXTINF:-1,IN | Star Gold [FHD]
@@ -209,13 +207,6 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/269091.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/275337.m3u8
 #EXTINF:-1,IND: BBO CLASSIC
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/308228.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -2447,6 +2438,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
+
 
 
 
