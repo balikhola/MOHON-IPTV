@@ -1,3 +1,259 @@
+
+
+
+
+#EXTINF:-1 tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x71442" group-title="",Btv Chittagong
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="",BTV News
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv.jpg" group-title="",Gazi Television – GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x49520" group-title="",Independent TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x49520" group-title="",Jamuna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfKU4xE2LNl_EEPoIc6MKCppI8TuTjMfaYUNUwczhIKIXMA4_JmDkSupB&s=10" group-title="",Somoy News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x71442" group-title="",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x49520" group-title="",Banglavision
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x49520" group-title="",Boishakhi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x49520" group-title="",Channel 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZx-BHJb7M4OXQbKK_vjZUved1aW9gCydznQ&s" group-title="",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x49520" group-title="",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x49520" group-title="",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x49520" group-title="",ATN Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x49520" group-title="",ATN Bangla UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x49520" group-title="",ATN News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN Music" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x49520" group-title="",ATN Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x49520" group-title="",DBC News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x49520" group-title="",Channel i
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x49520" group-title="",Ekattor TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ekhon TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" group-title="",Ekhon TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAJj7buIv6fhb44xxCefXyVq44DMQtwB4Zzq_V2ls6SvfOR1hyIkvOpE&s=10" group-title="Bangladesh",Ekushey TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="My TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x49520" group-title="",My TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NEWS24 TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x49520" group-title="",NEWS24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x71442" group-title="",SA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuiNF3heLtTUE2fXaX8Tqh0-m9qQO5WnVrzvOpEX_aKB16mdu1kRsracw&s=10" group-title="",Bijoy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x49520" group-title="",Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x49520" group-title="",Movie Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1.png" group-title="",Desh TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Global TV Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg" group-title="",Global TV Bangladesh
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ASH TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg" group-title="",ASH TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ashtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Music Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="",Music Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Music Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/mb.jpg" group-title="",Music Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Max Bangla TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/max-bangla.jpg" group-title="",Max Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/maxbangla.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ayna TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/ayna.jpg" group-title="",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toroni24 TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/Logo-For-Jagobd-2-01.jpg" group-title="",Toroni24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/toronitv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel 52" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/ch52-1.jpg" group-title="",Channel 52
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shadin Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-n_bU2-cxkCsYaZuuBNm5yFl8u77Qfm8aoRUPfD8iBKuozNhhUI1wrbcnIVYPTasieU&usqp=CAU" group-title="",Shadin Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="B24C" tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg" group-title="",B24C
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="CB24 TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png" group-title="",CB24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Movie Plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg" group-title="",Movie Plus
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Jagoroni TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/jagoroni.jpg" group-title="",Jagoroni TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ten Prime" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/Ten-Prime.jpg" group-title="",Ten Prime
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ruposhi Bangla TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed.webp" group-title="",Ruposhi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="The Channel TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="",The Channel TV | Canada
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ch5.jpg?x49520" group-title="",Channel 5
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BiswaBangla 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png" group-title="",BiswaBangla 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NAN TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="",NAN TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NEWS 21 BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="",NEWS 21 BANGLA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="WEB – Alpona TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="",WEB – Alpona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel S BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg" group-title="",Channel S BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BATV UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/IMG-20250127-WA0000.jpg" group-title="Bangladesh",BATV UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/batvuk.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="",Nexus TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NRB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x49520" group-title="",NRB TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Aamar Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="",Aamar Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Amar Digital" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1.jpg" group-title="",Amar Digital
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="IN-HOME TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/hometv.jpg" group-title="",IN-HOME TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="IN-MonTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/montv.jpg" group-title="",IN-MonTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="IN-Zodiak TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="",IN-Zodiak TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Parboto" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/Parbotta-TV-web.png" group-title="",Parboto
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/parbototv.stream/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 tvg-name="PBN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/pbn.jpg" group-title="",PBN
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="iBTV USA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/ibtv.jpg" group-title="",iBTV USA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="iON TV UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="",iON TV UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TIMES24 TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x71442" group-title="",TIMES24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel S UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x49520" group-title="",Channel S UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cumilla 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="",Cumilla 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cumilla24bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DesheBideshe TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg" group-title="",DesheBideshe TV | Canada
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="",Jago News 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="MillenniumTV | USA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x49520" group-title="",MillenniumTV | USA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="MillenniumTV | USA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x71442" group-title="",Ntv Europe
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Amar Digital" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1.jpg" group-title="",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-name="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/02/bartoman-web.jpeg" group-title="",BARTOMAN TELEVISION
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bartomantv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/thikana.jpeg" group-title="",Thikana TV | Web Test Transmission
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/sananda.jpg" group-title="",Sananda TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/n.png" group-title="",Noborup TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/noboruptv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AB TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="",Green TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/09/shikortv1.jpg" group-title="",Shikor TV Canada
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/shikortv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Islam Ch Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/icb.jpg" group-title="",Islam Ch Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png" group-title="",Peace TV Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IQRA Bangla TV UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="",IQRA Bangla TV UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Azan TV Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="",Azan TV Canada
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Deen TV UK" tvg-logo="https://yt3.googleusercontent.com/SkGT3a_fiuTVXVVIdFUpbwChCTo7Lep29fOSuMN5CsyvLhiE-HHvVxoAP9CMVEyF3dNvx-Hs=s900-c-k-c0x00ffffff-no-rj" group-title="",Deen TV UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Deen TV UK" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd.jpeg" group-title="",Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1,CineMania Bangla 1 FHD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389422.m3u8
 #EXTINF:-1,CineMania Bangla 2 FHD
@@ -9,57 +265,10 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389425.m3u8
 #EXTINF:-1,CineMania Bangla 5 FHD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389426.m3u8
 
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x71442" group-title="",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-
 
 
 #EXTINF:-1,IN | STAR GOLD THRILLS
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221258.m3u8
-#EXTINF:-1,&pictures (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109955.m3u8
-#EXTINF:-1,SONY MAX (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109957.m3u8
-#EXTINF:-1,ZEE CINEMA (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109958.m3u8
-#EXTINF:-1,Star GOLD (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109959.m3u8
-#EXTINF:-1,Star Gold Select (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109960.m3u8
-#EXTINF:-1,Movies_active (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109961.m3u8
-#EXTINF:-1,& flix (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109962.m3u8
-#EXTINF:-1,& Prive (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109963.m3u8
-#EXTINF:-1,& Xplorer (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109964.m3u8
-#EXTINF:-1,MN+ (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109965.m3u8
-#EXTINF:-1,SONY PIX (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109966.m3u8
-#EXTINF:-1,Movies Now (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109968.m3u8
-#EXTINF:-1,STAR MOVIES (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109970.m3u8
-#EXTINF:-1,STAR WORLD (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109971.m3u8
-#EXTINF:-1,DISCOVERY (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109974.m3u8
-#EXTINF:-1,ANIMAL PLANET (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109975.m3u8
-#EXTINF:-1,NAT Geo Wild (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109976.m3u8
-#EXTINF:-1,National GEO (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109977.m3u8
-#EXTINF:-1,Sony BBC Ear (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109978.m3u8
-#EXTINF:-1,FOX Life (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109980.m3u8
-#EXTINF:-1,IN: COLORS CINEPLEX (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206315.m3u8
-#EXTINF:-1,IN: Jalsha Movies (4K)*
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206320.m3u8
 #EXTINF:-1,IN | Star Gold HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66177.m3u8
 #EXTINF:-1,IN | Star Gold [FHD]
@@ -210,6 +419,137 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/269091.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/275337.m3u8
 #EXTINF:-1,IND: BBO CLASSIC
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/308228.m3u8
+#EXTINF:-1,Colors (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109947.m3u8
+#EXTINF:-1,SONY SET (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109948.m3u8
+#EXTINF:-1,Star Plus (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109949.m3u8
+#EXTINF:-1,ZEE TV (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109950.m3u8
+#EXTINF:-1,STAR BHARAT (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109951.m3u8
+#EXTINF:-1,&tv (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109952.m3u8
+#EXTINF:-1,SONY SAB (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109953.m3u8
+#EXTINF:-1,***IND: MOVIES (4K ULTRA HD)***
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109954.m3u8
+#EXTINF:-1,&pictures (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109955.m3u8
+#EXTINF:-1,SONY MAX (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109957.m3u8
+#EXTINF:-1,ZEE CINEMA (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109958.m3u8
+#EXTINF:-1,Star GOLD (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109959.m3u8
+#EXTINF:-1,Star Gold Select (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109960.m3u8
+#EXTINF:-1,Movies_active (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109961.m3u8
+#EXTINF:-1,& flix (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109962.m3u8
+#EXTINF:-1,& Prive (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109963.m3u8
+#EXTINF:-1,& Xplorer (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109964.m3u8
+#EXTINF:-1,MN+ (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109965.m3u8
+#EXTINF:-1,SONY PIX (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109966.m3u8
+#EXTINF:-1,Movies Now (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109968.m3u8
+#EXTINF:-1,STAR MOVIES (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109970.m3u8
+#EXTINF:-1,STAR WORLD (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109971.m3u8
+#EXTINF:-1,DISCOVERY (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109974.m3u8
+#EXTINF:-1,ANIMAL PLANET (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109975.m3u8
+#EXTINF:-1,NAT Geo Wild (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109976.m3u8
+#EXTINF:-1,National GEO (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109977.m3u8
+#EXTINF:-1,Sony BBC Ear (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109978.m3u8
+#EXTINF:-1,FOX Life (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109980.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206315.m3u8
+#EXTINF:-1,IN: Jalsha Movies (4K)*
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206320.m3u8
+#EXTINF:-1,***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109982.m3u8
+#EXTINF:-1,Sony Ten 1 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109983.m3u8
+#EXTINF:-1,Sony Ten 2 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109984.m3u8
+#EXTINF:-1,Sony Ten 3 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109985.m3u8
+#EXTINF:-1,Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109986.m3u8
+#EXTINF:-1,Star Sports 1 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109987.m3u8
+#EXTINF:-1,Star Sports 2 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109988.m3u8
+#EXTINF:-1,STAR 4K
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/390407.m3u8
+#EXTINF:-1,SONY SIX (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109992.m3u8
+#EXTINF:-1,Star Sports Select 1 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109993.m3u8
+#EXTINF:-1,Star Sports Select 2 (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109994.m3u8
+#EXTINF:-1,IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206324.m3u8
+#EXTINF:-1,***** IN | India *****
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66161.m3u8
+#EXTINF:-1,IN | Zee TV
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221250.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66162.m3u8
+#EXTINF:-1,IN | Zee TV [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66163.m3u8
+#EXTINF:-1,IN | Sony SET (TATAPLAY)
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221251.m3u8
+#EXTINF:-1,IN | Sony SET HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66164.m3u8
+#EXTINF:-1,IN | Sony SET [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66165.m3u8
+#EXTINF:-1,IN | Star Plus
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221252.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66166.m3u8
+#EXTINF:-1,IN | Star Plus FHD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66208.m3u8
+#EXTINF:-1,IN | Colors
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221254.m3u8
+#EXTINF:-1,IN | Colors HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66167.m3u8
+#EXTINF:-1,IN | Colors [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66168.m3u8
+#EXTINF:-1,IN | Star Bharat
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221255.m3u8
+#EXTINF:-1,IN | Star Bharat HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66170.m3u8
+#EXTINF:-1,IN | Star Bharat [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66171.m3u8
+#EXTINF:-1,IN | Sony Sab
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221256.m3u8
+#EXTINF:-1,IN | Sony Sab HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66174.m3u8
+#EXTINF:-1,IN | Sony Sab UK*
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66175.m3u8
+#EXTINF:-1,IN: SONY SAB [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/104194.m3u8
+#EXTINF:-1,IN | &Tv
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221253.m3u8
+#EXTINF:-1,IN | &Tv HD
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66172.m3u8
+#EXTINF:-1,IN | &Tv [FHD]
+http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66173.m3u8
+
 
 
 
@@ -542,22 +882,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/383529.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66285.m3u8
 #EXTINF:-1,IN | 9x Tashan
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66289.m3u8
-#EXTINF:-1,***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109946.m3u8
-#EXTINF:-1,Colors (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109947.m3u8
-#EXTINF:-1,SONY SET (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109948.m3u8
-#EXTINF:-1,Star Plus (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109949.m3u8
-#EXTINF:-1,ZEE TV (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109950.m3u8
-#EXTINF:-1,STAR BHARAT (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109951.m3u8
-#EXTINF:-1,&tv (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109952.m3u8
-#EXTINF:-1,SONY SAB (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109953.m3u8
+
 #EXTINF:-1,IN: Mastii
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/112988.m3u8
 #EXTINF:-1,IN: UTV Bindass
@@ -612,77 +937,6 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/219495.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/219496.m3u8
 #EXTINF:-1,IND: ZING
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/219497.m3u8
-#
-#EXTINF:-1,***IND: SPORTS (4K ULTRA HD)***
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109982.m3u8
-#EXTINF:-1,Sony Ten 1 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109983.m3u8
-#EXTINF:-1,Sony Ten 2 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109984.m3u8
-#EXTINF:-1,Sony Ten 3 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109985.m3u8
-#EXTINF:-1,Star Sport 1 HINDI (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109986.m3u8
-#EXTINF:-1,Star Sports 1 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109987.m3u8
-#EXTINF:-1,Star Sports 2 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109988.m3u8
-#EXTINF:-1,STAR 4K
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/390407.m3u8
-#EXTINF:-1,SONY SIX (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109992.m3u8
-#EXTINF:-1,Star Sports Select 1 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109993.m3u8
-#EXTINF:-1,Star Sports Select 2 (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/109994.m3u8
-#EXTINF:-1,IN: EUROPSPORT (4K)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/206324.m3u8
-#EXTINF:-1,***** IN | India *****
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66161.m3u8
-#EXTINF:-1,IN | Zee TV
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221250.m3u8
-#EXTINF:-1,IN | Zee TV HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66162.m3u8
-#EXTINF:-1,IN | Zee TV [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66163.m3u8
-#EXTINF:-1,IN | Sony SET (TATAPLAY)
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221251.m3u8
-#EXTINF:-1,IN | Sony SET HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66164.m3u8
-#EXTINF:-1,IN | Sony SET [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66165.m3u8
-#EXTINF:-1,IN | Star Plus
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221252.m3u8
-#EXTINF:-1,IN | Star Plus HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66166.m3u8
-#EXTINF:-1,IN | Star Plus FHD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66208.m3u8
-#EXTINF:-1,IN | Colors
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221254.m3u8
-#EXTINF:-1,IN | Colors HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66167.m3u8
-#EXTINF:-1,IN | Colors [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66168.m3u8
-#EXTINF:-1,IN | Star Bharat
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221255.m3u8
-#EXTINF:-1,IN | Star Bharat HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66170.m3u8
-#EXTINF:-1,IN | Star Bharat [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66171.m3u8
-#EXTINF:-1,IN | Sony Sab
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221256.m3u8
-#EXTINF:-1,IN | Sony Sab HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66174.m3u8
-#EXTINF:-1,IN | Sony Sab UK*
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66175.m3u8
-#EXTINF:-1,IN: SONY SAB [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/104194.m3u8
-#EXTINF:-1,IN | &Tv
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221253.m3u8
-#EXTINF:-1,IN | &Tv HD
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66172.m3u8
-#EXTINF:-1,IN | &Tv [FHD]
-http://xtv.ooo:8080/live/Mohon2022/Mohon20222/66173.m3u8
 
 #EXTINF:-1,24/7 MUSIC 18
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362865.m3u8
@@ -2441,9 +2695,3 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
-
-
-
-
-
-
