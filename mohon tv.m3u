@@ -9,6 +9,10 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389425.m3u8
 #EXTINF:-1,CineMania Bangla 5 FHD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/389426.m3u8
 
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x71442" group-title="",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
+
 
 #EXTINF:-1,IN | STAR GOLD THRILLS
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/221258.m3u8
@@ -2437,6 +2441,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
+
 
 
 
