@@ -58,30 +58,58 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="",azan tv
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="",Peace Tv Bangla Tv 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/RFvyT27y/Rajdhani_Tv.webp" group-title="",rajdhani Tv 
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/024a3c0f496e56287e8d48584cd5a1c7.png" group-title="",salambangla
 http://115.187.41.216:8080/hls/salambangla/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c455ca0e9fe90ef63458716120b5abd1.png" group-title="",mon tv bangla
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/15NgSdFw/Amar_Digital_Img.png" group-title="",amar digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/P5WPp828/SRK_TV_plus_Logo.png" group-title="",srktv Tv 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/nL4NBnDh/Sananda_TV_logo.webp" group-title="",sananda Tv 
 http://sananda.bengaldigital.live/Sananda/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/VL2hhJ9J/Ekushey_Television_Logo.png" group-title="",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/bJqWR4xD/moviebanglatv_logo.png" group-title="",Movie Bangla
 http://alvetv.com/mbtv/8080/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/BbP0T4PX/ME_TV.png" group-title="",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/zvZsg3dk/filmi_tv_logo.png" group-title="",FILMY Tv
 http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Y0dxwsmt/Desh_bedaha.png" group-title="",Desh Videsh 
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-name="Enterr 10 Bangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="",Enterr 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Orange Bangla" tvg-logo="https://i.postimg.cc/9QTkL2tr/Tara_TV.png" group-title="",Tara Bangla TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/cCFP5TxK/Bangla_+.webp" group-title="",Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x71442" group-title="",Btv Chittagong
@@ -2777,6 +2805,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
+
 
 
 
