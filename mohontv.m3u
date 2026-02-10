@@ -114,15 +114,15 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPjEYT3JIvTdqF-MY-PWNOyfoPcgt-6uLtzDKQauLWw&s=10" group-title="Opplex",Zee Bangla HD
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/PfgfzBVM/zee_bangla_logo_png.png" group-title="Opplex",Zee Bangla HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245893.m3u8
-#EXTINF:-1,BD-loc: Colors Bangla
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/PfgfzBVM/zee_bangla_logo_png.png" group-title="Opplex",Colors Bangla
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245895.m3u8
-#EXTINF:-1,IND-Bangla: Zee Bangla Cinema
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/BnsqR2Gd/Zee_Bangla_Cinema.png" group-title="Opplex",Zee Bangla Cinema
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245897.m3u8
-#EXTINF:-1,IND-Bangla: Star Jalsa HD
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/HxNLH8LN/star_jalsha.jpg" group-title="Opplex",Star Jalsa HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245898.m3u8
-#EXTINF:-1,IND-Bangla: Jalsa Movies HD
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/PfgfzBVM/zee_bangla_logo_png.png" group-title="Opplex",Jalsa Movies HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245900.m3u8
 #EXTINF:-1,BD-loc: Gazi TV
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245901.m3u8
@@ -2560,6 +2560,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
+
 
 
 
