@@ -114,7 +114,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
-#EXTINF:-1,IND-Bangla: Zee Bangla HD
+#EXTINF:-1 tvg-id="134" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPjEYT3JIvTdqF-MY-PWNOyfoPcgt-6uLtzDKQauLWw&s=10" group-title="Opplex",Zee Bangla HD
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245893.m3u8
 #EXTINF:-1,BD-loc: Colors Bangla
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/245895.m3u8
@@ -2560,6 +2560,7 @@ http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362994.m3u8
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362995.m3u8
 #EXTINF:-1,46 HOLLYWOOD HINDI DUBBED 24/7
 http://xtv.ooo:8080/live/Mohon2022/Mohon20222/362996.m3u8
+
 
 
 
