@@ -1,16 +1,6 @@
-#EXTM3U
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.postimg.cc/NfHGTDGD/T_Sports.png",PTV SPORTS
+#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://www.vhv.rs/dpng/d/216-2165248_ptv-sport-live-logo-hd-png-download.png",PTV SPORTS
 http://198.195.239.50:8095/PTV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.postimg.cc/NfHGTDGD/T_Sports.png",T Sports HD
@@ -55,11 +45,7 @@ http://192.168.91.8/streams/130/index.m3u8
 #EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.ibb.co/ymrrHNYc/SONY-SPORTS-TEN-4-HD.png",SONY SPORTS TEN 4 HD
 http://192.168.91.8/streams/126/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.ibb.co/mVcLXFfm/SONY-SPORTS-TEN-5-HD.png",SONY SPORTS TEN 5 HD
-http://192.168.91.8/streams/126/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1
-http://192.168.91.8/streams/126/index.m3u8
 
 
 
@@ -484,6 +470,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+
+
 
 
 
