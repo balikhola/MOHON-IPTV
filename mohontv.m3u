@@ -144,17 +144,19 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIA | Bengali Tv",Star Jalsha HD
-http://192.168.91.8/streams/125/index.m3u8
 
-#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIA | Bengali Tv",Star Jalsha HD
-http://103.99.249.139/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-name="Enterr 10 Bangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="INDIA | Bengali Tv",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="INDIA | Bengali Tv",Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIA | Bengali Tv",Star Jalsha HD
+http://192.168.91.8/streams/125/index.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIA | Bengali Tv",Star Jalsha HD
+http://103.99.249.139/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="INDIA | Bengali Tv",Star Jalsha HD
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
@@ -473,6 +475,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
