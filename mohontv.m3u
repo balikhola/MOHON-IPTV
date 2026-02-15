@@ -231,43 +231,7 @@ http://cdnd.sonyplex.com:8090/hls/ColorsCineplexHD.m3u8
 
 
 
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT",ZEE TV
-http://poketporota.noobmaster.xyz:8080/ZEETVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/JR5VtWDJ/ZEE-TV-HD.png",ZEE TV HD
-https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
 
-http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png",SONY ENTERNMENT HD
-http://poketporota.noobmaster.xyz:8080/SONYENTHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/KcCM4FWq/STAR-PLUS.png",STAR PLUS
-http://poketporota.noobmaster.xyz:8080/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png",STAR PLUS HD
-https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png",STAR BHARAT
-
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/PZvWHvfM/STAR-BHARAT-HD.png",STAR BHARAT HD
-http://poketporota.noobmaster.xyz:8080/STARBHARATHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png",COLORS
-http://cdnd.sonyplex.com:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT",COLORS HD
-https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/BV8vbTgh/SONY-MAX.png",SONY MAX
-http://poketporota.noobmaster.xyz:8080/SONYMAXHD/index.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/PvZ3RxWc/SONY-MAX-HD.png",SONY MAX HD
-https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/FLt5BgtG/STAR-GOLD.png",STAR GOLD
-
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2qVdgrK/STAR-GOLD-HD.png",STAR GOLD HD
-http://poketporota.noobmaster.xyz:8080/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/Q7Rw0Rkp/STAR-GOLD-2.png",STAR GOLD 2
-http://poketporota.noobmaster.xyz:8080/STARGOLD2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/xtwQSVQq/STAR-GOLD-2-HD.png",STAR GOLD 2 HD
-
-
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png",STAR GOLD SELECT HD
-http://poketporota.noobmaster.xyz:8080/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI | ENTERTAINMENT" tvg-logo="https://i.ibb.co/273tL0dR/STAR-MOVIES.png",STAR MOVIES
-https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 
 
 ------------------------------------------------------------------------------------------------------------------------ India ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -447,6 +411,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
