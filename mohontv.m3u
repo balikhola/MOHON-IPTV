@@ -375,15 +375,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="MTV BEST" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE=w600-h300-pc0xffffff-pd" group-title="HINDI | MUSIC",JOO MUSIC Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV BEST" tvg-logo="https://i.postimg.cc/L5Ss4brT/TRACE-Latina-Logo.png" group-title="HINDI | MUSIC",TRACE Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-
-#EXTINF:-1 tvg-name="MTV BEST" tvg-logo="https://i.postimg.cc/L5Ss4brT/TRACE-Latina-Logo.png" group-title="HINDI | MUSIC",TRACE Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
-
-#EXTINF:-1 tvg-name="MTV BEST" tvg-logo="https://i.postimg.cc/L5Ss4brT/TRACE-Latina-Logo.png" group-title="HINDI | MUSIC",TRACE Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
-
 #EXTINF:-1 tvg-name="MTV BEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-series-logo.svg/330px-T-series-logo.svg.png" group-title="HINDI | MUSIC",T Music
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
@@ -411,6 +402,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
