@@ -1003,9 +1003,11 @@ http://116.204.149.16/maasranga/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="BANGLA | Tv",azan tv
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="BANGLA | Tv",Peace Tv Bangla Tv 
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/RFvyT27y/Rajdhani_Tv.webp" group-title="BANGLA | Tv",rajdhani Tv 
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/024a3c0f496e56287e8d48584cd5a1c7.png" group-title="BANGLA | Tv",salambangla
@@ -1025,10 +1027,11 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/BbP0T4PX/ME_TV.png" group-title="BANGLA | Tv",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/zvZsg3dk/filmi_tv_logo.png" group-title="BANGLA | Tv",FILMY Tv
-http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Y0dxwsmt/Desh_bedaha.png" group-title="BANGLA | Tv",Desh Videsh 
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Y0dxwsmt/Desh_bedaha.png" group-title="BANGLA | Tv"Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 
 
@@ -1287,6 +1290,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
