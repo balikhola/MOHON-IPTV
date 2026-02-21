@@ -1002,19 +1002,19 @@ http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/BvSB73zn/Desh_TV24_Bangla.png" group-title="BANGLA | Tv",deshi tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="BANGLA | Tv",azan tv
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/bJx2GTTY/Star_News.webp" group-title="BANGLA | Tv",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Gt5fd2ZQ/Pistv_Bangla.png" group-title="BANGLA | Tv",Peace Tv Bangla Tv 
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/CxRBCYN7/Ekhon_Logo.png" group-title="BANGLA | Tv",Ekon Tv 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/2ynTShq4/Sa_tv_png.jpg" group-title="BANGLA | Tv",SA Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/Y0dxwsmt/Desh_bedaha.png" group-title="BANGLA | Tv",Desh Videsh 
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/d0J6thvr/DBC_News_logo.png" group-title="BANGLA | Tv",DBC Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/nLn2cXZZ/Channel9_bd_svg.png" group-title="BANGLA | Tv"Channel 9
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/nLn2cXZZ/Channel9_bd_svg.png" group-title="BANGLA | Tv",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/RFvyT27y/Rajdhani_Tv.webp" group-title="BANGLA | Tv",rajdhani Tv 
@@ -1294,6 +1294,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
