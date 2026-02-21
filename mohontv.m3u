@@ -993,7 +993,7 @@ http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/B666V7sx/Gobal_Tv.png" group-title="BANGLA | Tv",Gobal Tv
 http://116.204.149.16/globaltv/index.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.ibb.co.com/Gf69TnpK/NAGORIK-TV.png" group-title="BANGLA | Tv",NAGORIK TV
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/G2dmf1Fb/news24_channel_logo_png.png" group-title="BANGLA | Tv",News 24 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://mail.maasranga.tv/public/customize/newImage/logo.png" group-title="BANGLA | Tv",Maasranga Tv 
@@ -1294,6 +1294,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdXlb-GPUbnuLWe0wDROVuALdkETAFfYBQ&s" group-title="HINDI | KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 
 
 
