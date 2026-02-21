@@ -1,9 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="http://10.16.100.244/files/mahaan.jpg",Mahaan 2022 Released:	2022 Feb 10 Runtime:	163 min Genre:	Action, Drama, Thriller Director:	Karthik Subbaraj Actors:	Vikram, Simran, Dhruv Vikram Language:	Tamil Country:	India Awards:	3 nominations
+#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="http://10.16.100.244/files/mahaan.jpg",Mahaan 2022 Released:	2022 
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/South%20Indian%20(Hindi%20Dubbed)/Mahaan%20(2022)%201080p%20WEBDL.mp4
 
+#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="http://10.16.100.244/files/anaconda__anaconda_kuang_mang_zhi_zai___hindi___chinese_.jpg",Anaconda (Anaconda Kuang Mang Zhi Zai) (Hindi + Chinese) 2024
+http://10.16.100.213/iccftps13/iccftps13sasd5/Movies/Dual%20Audio/Anaconda%20(Anaconda%20Kuang%20Mang%20Zhi%20Zai)%20(2024)%20(Hindi%20&%20Chinese)%201080p%20WEBDL.mp4
 
 
 
@@ -1299,6 +1301,7 @@ https://cloud.mohon.xyz/stream.php?id=xite-music&e=.m3u8
 
 #EXTINF:-1 tvg-id="xite-music" tvg-logo="https://mspannel.top/naigo/img/Xitemusic.jpeg" group-title="General", Xitemusic
 https://cloud.mohon.xyz/stream.php?id=xite-music&e=.m3u8
+
 
 
 
