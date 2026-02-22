@@ -7,7 +7,8 @@ http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/South%20Indian%20(Hindi%20
 #EXTINF:-1 group-title="new released movies" tvg-logo="http://10.16.100.244/files/anaconda__anaconda_kuang_mang_zhi_zai___hindi___chinese_.jpg",Anaconda (Anaconda Kuang Mang Zhi Zai) (Hindi + Chinese) 2024
 http://10.16.100.213/iccftps13/iccftps13sasd5/Movies/Dual%20Audio/Anaconda%20(Anaconda%20Kuang%20Mang%20Zhi%20Zai)%20(2024)%20(Hindi%20&%20Chinese)%201080p%20WEBDL.mp4
 
-
+#EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.postimg.cc/NfHGTDGD/T_Sports.png",T SPORTS HD
+http://103.158.133.62:8080/live/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS | CRICKET 24x7" tvg-logo="https://i.postimg.cc/NfHGTDGD/T_Sports.png",T SPORTS HD
 http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
@@ -1301,6 +1302,7 @@ https://cloud.mohon.xyz/stream.php?id=xite-music&e=.m3u8
 
 #EXTINF:-1 tvg-id="xite-music" tvg-logo="https://mspannel.top/naigo/img/Xitemusic.jpeg" group-title="General", Xitemusic
 https://cloud.mohon.xyz/stream.php?id=xite-music&e=.m3u8
+
 
 
 
